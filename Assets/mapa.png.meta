@@ -1,0 +1,3000 @@
+fileFormatVersion: 2
+guid: 99bd2eba62fb0bf4e8a121533afa5eac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1412945729244362386
+    second: mapa_0
+  - first:
+      213: -1994589965185498041
+    second: mapa_1
+  - first:
+      213: -2174641752590822194
+    second: mapa_2
+  - first:
+      213: -4125666450567396833
+    second: mapa_3
+  - first:
+      213: -5192967000976928488
+    second: mapa_4
+  - first:
+      213: 7238403405854448302
+    second: mapa_5
+  - first:
+      213: 2402383017132635842
+    second: mapa_6
+  - first:
+      213: 2852849222992323887
+    second: mapa_7
+  - first:
+      213: 8900304792192902926
+    second: mapa_8
+  - first:
+      213: -6211299445271732975
+    second: mapa_9
+  - first:
+      213: 6890135413719707536
+    second: mapa_10
+  - first:
+      213: -5419009072859818711
+    second: mapa_11
+  - first:
+      213: 5416280748316221862
+    second: mapa_12
+  - first:
+      213: 7370683289702443995
+    second: mapa_13
+  - first:
+      213: 4953698849970539676
+    second: mapa_14
+  - first:
+      213: 9044199939368508114
+    second: mapa_15
+  - first:
+      213: -6031172078890732821
+    second: mapa_16
+  - first:
+      213: -7542793916902598428
+    second: mapa_17
+  - first:
+      213: 8140934067132346506
+    second: mapa_18
+  - first:
+      213: -5316327390050033363
+    second: mapa_19
+  - first:
+      213: 5198721127065064103
+    second: mapa_20
+  - first:
+      213: -5574920080090010579
+    second: mapa_21
+  - first:
+      213: -1966817830565327472
+    second: mapa_22
+  - first:
+      213: 2326577350496446147
+    second: mapa_23
+  - first:
+      213: -2260546419900713252
+    second: mapa_24
+  - first:
+      213: 7065448120600692041
+    second: mapa_25
+  - first:
+      213: -4736175148276601596
+    second: mapa_26
+  - first:
+      213: 4030802323099683739
+    second: mapa_27
+  - first:
+      213: -3521475463218735043
+    second: mapa_28
+  - first:
+      213: -4885967571781423244
+    second: mapa_29
+  - first:
+      213: -2589468329027317876
+    second: mapa_30
+  - first:
+      213: -5504140870493368478
+    second: mapa_31
+  - first:
+      213: 5078825154899314144
+    second: mapa_32
+  - first:
+      213: 2021627063519991504
+    second: mapa_33
+  - first:
+      213: 6295338347866572916
+    second: mapa_34
+  - first:
+      213: 8518359428732266452
+    second: mapa_35
+  - first:
+      213: -665952800250678051
+    second: mapa_36
+  - first:
+      213: -8055663091127251528
+    second: mapa_37
+  - first:
+      213: -817481360947081375
+    second: mapa_38
+  - first:
+      213: 2082492590820376062
+    second: mapa_39
+  - first:
+      213: -6479207894606200890
+    second: mapa_40
+  - first:
+      213: 3423472255645171748
+    second: mapa_41
+  - first:
+      213: 422199400457460113
+    second: mapa_42
+  - first:
+      213: -3890765467815977893
+    second: mapa_43
+  - first:
+      213: -8051950756585259391
+    second: mapa_44
+  - first:
+      213: -8341133506571952375
+    second: mapa_45
+  - first:
+      213: 2909781973761497977
+    second: mapa_46
+  - first:
+      213: 9175644261610893006
+    second: mapa_47
+  - first:
+      213: -7695274600381734880
+    second: mapa_48
+  - first:
+      213: 6735044398080478774
+    second: mapa_49
+  - first:
+      213: 5132002031634328644
+    second: mapa_50
+  - first:
+      213: 8610944940499193225
+    second: mapa_51
+  - first:
+      213: 4552821201610956489
+    second: mapa_52
+  - first:
+      213: 3445971625145712729
+    second: mapa_53
+  - first:
+      213: 729666355144958364
+    second: mapa_54
+  - first:
+      213: 7022587035399730780
+    second: mapa_55
+  - first:
+      213: 6711525096698399455
+    second: mapa_56
+  - first:
+      213: 8712962712014946853
+    second: mapa_57
+  - first:
+      213: -7076062738955846997
+    second: mapa_58
+  - first:
+      213: -7939029949272378040
+    second: mapa_59
+  - first:
+      213: 4610381919049009024
+    second: mapa_60
+  - first:
+      213: -4725393560901172334
+    second: mapa_61
+  - first:
+      213: -7165656772695388558
+    second: mapa_62
+  - first:
+      213: 3040731498183202061
+    second: mapa_63
+  - first:
+      213: 1440581052157943759
+    second: mapa_64
+  - first:
+      213: 238860351438952257
+    second: mapa_65
+  - first:
+      213: 8410021325135270721
+    second: mapa_66
+  - first:
+      213: 5760700262930661309
+    second: mapa_67
+  - first:
+      213: -4120805473363632993
+    second: mapa_68
+  - first:
+      213: 1797288272708996135
+    second: mapa_69
+  - first:
+      213: -2973684012600266588
+    second: mapa_70
+  - first:
+      213: 7858695846201054310
+    second: mapa_71
+  - first:
+      213: -296296784508299236
+    second: mapa_72
+  - first:
+      213: 674808851904721163
+    second: mapa_73
+  - first:
+      213: -9215014565893433711
+    second: mapa_74
+  - first:
+      213: 8764713876188263841
+    second: mapa_75
+  - first:
+      213: 3508176677955748369
+    second: mapa_76
+  - first:
+      213: -7630675558778627834
+    second: mapa_77
+  - first:
+      213: 4996442864188269762
+    second: mapa_78
+  - first:
+      213: -4160882407643804950
+    second: mapa_79
+  - first:
+      213: -1772099121654678286
+    second: mapa_80
+  - first:
+      213: 2403699427208662428
+    second: mapa_81
+  - first:
+      213: 8206828620467889839
+    second: mapa_82
+  - first:
+      213: -1262528768816950197
+    second: mapa_83
+  - first:
+      213: -9063449714793240269
+    second: mapa_84
+  - first:
+      213: 4373386271493635733
+    second: mapa_85
+  - first:
+      213: 8354760011840900822
+    second: mapa_86
+  - first:
+      213: 3654322314510518042
+    second: mapa_87
+  - first:
+      213: -2569998080939859186
+    second: mapa_88
+  - first:
+      213: -8340231185869319403
+    second: mapa_89
+  - first:
+      213: 7087425197440489244
+    second: mapa_90
+  - first:
+      213: 7735883555651368697
+    second: mapa_91
+  - first:
+      213: 3786036437771242131
+    second: mapa_92
+  - first:
+      213: -2835132674945052552
+    second: mapa_93
+  - first:
+      213: 1766300843594948571
+    second: mapa_94
+  - first:
+      213: -6392749710620198628
+    second: mapa_95
+  - first:
+      213: -1687924478943314641
+    second: mapa_96
+  - first:
+      213: -4887702198797636832
+    second: mapa_97
+  - first:
+      213: 162215110881673339
+    second: mapa_98
+  - first:
+      213: -2522909743963310219
+    second: mapa_99
+  - first:
+      213: -4842453012710076733
+    second: mapa_100
+  - first:
+      213: -6723387483695760530
+    second: mapa_101
+  - first:
+      213: 5749766357153580029
+    second: mapa_102
+  - first:
+      213: -867558358775093185
+    second: mapa_103
+  - first:
+      213: -1472433855602947240
+    second: mapa_104
+  - first:
+      213: 5642620701219582247
+    second: mapa_105
+  - first:
+      213: -1876921318962545944
+    second: mapa_106
+  - first:
+      213: -6542669021321407724
+    second: mapa_107
+  - first:
+      213: -2711046307104385331
+    second: mapa_108
+  - first:
+      213: -8033628115180920677
+    second: mapa_109
+  - first:
+      213: 2790047707828008576
+    second: mapa_110
+  - first:
+      213: -9057157651021165970
+    second: mapa_111
+  - first:
+      213: -6508992437944290724
+    second: mapa_112
+  - first:
+      213: 508862921423008262
+    second: mapa_113
+  - first:
+      213: -6755345401061855511
+    second: mapa_114
+  - first:
+      213: 7364461463403432032
+    second: mapa_115
+  - first:
+      213: 6532608619784806752
+    second: mapa_116
+  - first:
+      213: 1191923043011100578
+    second: mapa_117
+  - first:
+      213: 436771709821187592
+    second: mapa_118
+  - first:
+      213: 5413095012738426062
+    second: mapa_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mapa_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e690c796855346ce0800000000000000
+      internalID: -1412945729244362386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7444f849efac154e0800000000000000
+      internalID: -1994589965185498041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4571709de12d1e0800000000000000
+      internalID: -2174641752590822194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f120f20d830beb6c0800000000000000
+      internalID: -4125666450567396833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811d170b600eee7b0800000000000000
+      internalID: -5192967000976928488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa9ee20c89f37460800000000000000
+      internalID: 7238403405854448302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c63f9e20aaf65120800000000000000
+      internalID: 2402383017132635842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25e436d04b579720800000000000000
+      internalID: 2852849222992323887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e076d5b7d0c348b70800000000000000
+      internalID: 8900304792192902926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d5ffa30180dc9a0800000000000000
+      internalID: -6211299445271732975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f2a1d37adae9f50800000000000000
+      internalID: 6890135413719707536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925529995ffcbc4b0800000000000000
+      internalID: -5419009072859818711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1ec27d4ae7a2b40800000000000000
+      internalID: 5416280748316221862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb2f92866de94660800000000000000
+      internalID: 7370683289702443995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c41c4bbd21fb440800000000000000
+      internalID: 4953698849970539676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da5ba73de3738d70800000000000000
+      internalID: 9044199939368508114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2b672e2f8fc4ca0800000000000000
+      internalID: -6031172078890732821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e81b0165ec925790800000000000000
+      internalID: -7542793916902598428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80bc4bc6686af070800000000000000
+      internalID: 8140934067132346506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d216366e76c9836b0800000000000000
+      internalID: -5316327390050033363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a218013251952840800000000000000
+      internalID: 5198721127065064103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cea0f69b7e1a2b0800000000000000
+      internalID: -5574920080090010579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dcf3f8a9574b4e0800000000000000
+      internalID: -1966817830565327472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c66fc606c9a94020800000000000000
+      internalID: 2326577350496446147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6798b020de0a0e0800000000000000
+      internalID: -2260546419900713252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9450b5f91a38d0260800000000000000
+      internalID: 7065448120600692041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40da0f4cbc9b54eb0800000000000000
+      internalID: -4736175148276601596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b0d245b5940f730800000000000000
+      internalID: 4030802323099683739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38d79949b4312fc0800000000000000
+      internalID: -3521475463218735043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fe3e3616e813cb0800000000000000
+      internalID: -4885967571781423244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fc33b364c501cd0800000000000000
+      internalID: -2589468329027317876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f888c5a0d5d93b0800000000000000
+      internalID: -5504140870493368478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e58712d19c9b7640800000000000000
+      internalID: 5078825154899314144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6dc6d6a134e0c10800000000000000
+      internalID: 2021627063519991504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4784b7d8fd88d5750800000000000000
+      internalID: 6295338347866572916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7afaaa4ca473670800000000000000
+      internalID: 8518359428732266452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4b1efd47f02c6f0800000000000000
+      internalID: -665952800250678051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd822f6919843090800000000000000
+      internalID: -8055663091127251528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f0f3e8809b7a4f0800000000000000
+      internalID: -817481360947081375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd3b335aff76ec10800000000000000
+      internalID: 2082492590820376062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf37188fba3516a0800000000000000
+      internalID: -6479207894606200890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420c220d0ed928f20800000000000000
+      internalID: 3423472255645171748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19956a82e14fbd500800000000000000
+      internalID: 422199400457460113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cd872db69310ac0800000000000000
+      internalID: -3890765467815977893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e3ccca279b14090800000000000000
+      internalID: -8051950756585259391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f9bacd4475e3c80800000000000000
+      internalID: -8341133506571952375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b93e7d94f916820800000000000000
+      internalID: 2909781973761497977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece2bae57df665f70800000000000000
+      internalID: 9175644261610893006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0202923b584e43590800000000000000
+      internalID: -7695274600381734880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e421e323fa77d50800000000000000
+      internalID: 6735044398080478774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ca52248a8883740800000000000000
+      internalID: 5132002031634328644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dc6e6fcc8308770800000000000000
+      internalID: 8610944940499193225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce53efc2cede2f30800000000000000
+      internalID: 4552821201610956489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_53
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950c2ee7fec82df20800000000000000
+      internalID: 3445971625145712729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9128fe1fab402a00800000000000000
+      internalID: 729666355144958364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56b34193bd357160800000000000000
+      internalID: 7022587035399730780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdac3d92480242d50800000000000000
+      internalID: 6711525096698399455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52200ee5c69aae870800000000000000
+      internalID: 8712962712014946853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baab824fd66cccd90800000000000000
+      internalID: -7076062738955846997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845be6ce256e2d190800000000000000
+      internalID: -7939029949272378040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087ccc3bded5bff30800000000000000
+      internalID: 4610381919049009024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2934192b7970c6eb0800000000000000
+      internalID: -4725393560901172334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e8e1961297e8c90800000000000000
+      internalID: -7165656772695388558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d051d86ef29d23a20800000000000000
+      internalID: 3040731498183202061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf580c95d8fdf310800000000000000
+      internalID: 1440581052157943759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147917e593a905300800000000000000
+      internalID: 238860351438952257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143d52646d566b470800000000000000
+      internalID: 8410021325135270721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf3b7d1e5e12ff40800000000000000
+      internalID: 5760700262930661309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cdca34145ffc6c0800000000000000
+      internalID: -4120805473363632993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c8bcd592041f810800000000000000
+      internalID: 1797288272708996135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0f3b2552a5bb6d0800000000000000
+      internalID: -2973684012600266588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 239
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664d6a62c32bf0d60800000000000000
+      internalID: 7858695846201054310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18da43f4a753ebf0800000000000000
+      internalID: -296296784508299236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01f11553176d5900800000000000000
+      internalID: 674808851904721163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1961fd75311bd1080800000000000000
+      internalID: -9215014565893433711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5732c35d482a970800000000000000
+      internalID: 8764713876188263841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112ccdaf91c8fa030800000000000000
+      internalID: 3508176677955748369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6099eb222056a1690800000000000000
+      internalID: -7630675558778627834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c42a7c005ee65540800000000000000
+      internalID: 4996442864188269762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea083cde739146c0800000000000000
+      internalID: -4160882407643804950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcbdf2ec3d3867e0800000000000000
+      internalID: -1772099121654678286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d0599c4e7ab5120800000000000000
+      internalID: 2403699427208662428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa66f7f062384e170800000000000000
+      internalID: 8206828620467889839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4454ff16c89a7ee0800000000000000
+      internalID: -1262528768816950197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339222e2188283280800000000000000
+      internalID: -9063449714793240269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59eb2f984a361bc30800000000000000
+      internalID: 4373386271493635733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de4a6127f112f370800000000000000
+      internalID: 8354760011840900822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17ce2b98c2c6b230800000000000000
+      internalID: 3654322314510518042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03e420ac58855cd0800000000000000
+      internalID: -2569998080939859186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513df95cceb814c80800000000000000
+      internalID: -8340231185869319403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17d7919aa79b5260800000000000000
+      internalID: 7087425197440489244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6b26e7b116b5b60800000000000000
+      internalID: 7735883555651368697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a4a04b414ba8430800000000000000
+      internalID: 3786036437771242131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8701cc27ad597a8d0800000000000000
+      internalID: -2835132674945052552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf13fc4249238810800000000000000
+      internalID: 1766300843594948571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19708822046847a0800000000000000
+      internalID: -6392749710620198628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2db5e021a94398e0800000000000000
+      internalID: -1687924478943314641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b65c01fb46b2cb0800000000000000
+      internalID: -4887702198797636832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b708d4da8cd404200800000000000000
+      internalID: 162215110881673339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577f1be64f2dcfcd0800000000000000
+      internalID: -2522909743963310219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce45ef24a62cccb0800000000000000
+      internalID: -4842453012710076733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bb103a4bab1b2a0800000000000000
+      internalID: -6723387483695760530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df381abc9064bcf40800000000000000
+      internalID: 5749766357153580029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 111
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f382a4be440d5f3f0800000000000000
+      internalID: -867558358775093185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_104
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b0789a53dd09be0800000000000000
+      internalID: -1472433855602947240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_105
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7217572c1ad9e4e40800000000000000
+      internalID: 5642620701219582247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea31e73106d3f5e0800000000000000
+      internalID: -1876921318962545944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_107
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4135f2d8035c335a0800000000000000
+      internalID: -6542669021321407724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc698675fbd606ad0800000000000000
+      internalID: -2711046307104385331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90ec011bc1d28090800000000000000
+      internalID: -8033628115180920677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0863b73ab9d38b620800000000000000
+      internalID: 2790047707828008576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_111
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a0c207a138e4280800000000000000
+      internalID: -9057157651021165970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_112
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5270a22dd96ba5a0800000000000000
+      internalID: -6508992437944290724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_113
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60239c68128df0700800000000000000
+      internalID: 508862921423008262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eea3aa26213042a0800000000000000
+      internalID: -6755345401061855511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0680730bea2d33660800000000000000
+      internalID: 7364461463403432032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_116
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061adeeadec78aa50800000000000000
+      internalID: 6532608619784806752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_117
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af774a41bf8a8010800000000000000
+      internalID: 1191923043011100578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_118
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806f4d35e89bf0600800000000000000
+      internalID: 436771709821187592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa_119
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 15
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec466b9fb3d2f1b40800000000000000
+      internalID: 5413095012738426062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
